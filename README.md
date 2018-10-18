@@ -2,8 +2,7 @@
 
 ## Set-up drools kie-server and kie-workbench
 
-Download and configure kie-server and kie-workbench applications. Details about the set up can be found at [https://sompammar.github.io/drools/kie-server-workbench/setup/2018/10/16/drools-setup.html](https://sompammar.github.io/drools/kie-server-workbench/setup/2018/10/16/drools-setup.html)
-
+Download and configure kie-server and kie-workbench applications. Details about the set up can be found at [https://sompammar.github.io/drools/kie-server-workbench/setup/2018/10/17/drools-setup.html](https://sompammar.github.io/drools/kie-server-workbench/setup/2018/10/17/drools-setup.html)
 ## Import the sample mortgages 
 
 -  Go to Projects page by clicking on ```Design - Create and modify projects```
