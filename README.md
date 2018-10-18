@@ -1,3 +1,9 @@
+<!--
+  Title: Drools Rule Executor through REST api
+  Description: A sample Java Program to execute Drools Rules on kie-server via REST api
+  Author: SomPammar
+  -->
+
 # Java Program to execute Drools Rules on kie-server via REST api
 
 ## Set-up drools kie-server and kie-workbench
